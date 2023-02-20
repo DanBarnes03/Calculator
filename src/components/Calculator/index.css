@@ -1,0 +1,9 @@
+.textBox {
+    background-color: rgba(0, 0, 0, 0.75);
+    color: aliceblue;
+    font-size: 38px;
+    width:384px;
+    height:112px;
+    padding-left: 10px;
+}
+

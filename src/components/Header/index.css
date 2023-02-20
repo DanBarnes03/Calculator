@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.calculator {
+    width:150px;
+    margin-right: 750px;
+}
+
+.title {
+    font-family: Arial;
+    font-size:60px;
+    display: flex;
+    margin-left:700px;
+}
